@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ReactNativeRestApi",
-    "slug": "ReactNativeRestApi",
+    "slug": "react-native-rest-api",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "01ed4629-3f56-4338-bfc2-567da4c4083b"
+      }
+    },
+    "owner": "yusufrizalh"
   }
 }
